@@ -1,5 +1,4 @@
 # Classification
-Classification Algorithms
 
 **7 types of classification algorithms are discussed here:**
 1. Logistic regression 
